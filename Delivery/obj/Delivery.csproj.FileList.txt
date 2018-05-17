@@ -1,0 +1,10 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Delivery.Properties.Resources.resources
+obj\Debug\Delivery.csproj.GenerateResource.Cache
+bin\Debug\Delivery.exe
+bin\Debug\Delivery.pdb
+bin\Debug\muWrapper.dll
+bin\Debug\NPlot.dll
+obj\Debug\Delivery.exe
+obj\Debug\Delivery.pdb
+bin\Debug\MathNet.Iridium.dll

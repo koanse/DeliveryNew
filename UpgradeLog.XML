@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Delivery">
+</Property><Property Name="Solution File" Value="D:\Documents and Settings\Antony\Мои документы\Visual Studio 2008\Projects\Delivery\Delivery.sln">
+</Property><Property Name="User Options File" Value="D:\Documents and Settings\Antony\Мои документы\Visual Studio 2008\Projects\Delivery\Delivery.suo">
+</Property><Property Name="Date" Value="4 мая 2009 г.">
+</Property><Property Name="Time" Value="9:24">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Delivery.sln" Description="File successfully backed up as D:\Documents and Settings\Antony\Мои документы\Visual Studio 2008\Projects\Delivery\Backup\Delivery.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Delivery.suo" Description="File successfully backed up as D:\Documents and Settings\Antony\Мои документы\Visual Studio 2008\Projects\Delivery\Backup\Delivery.suo">
+</Event><Event ErrorLevel="0" Project="Delivery" Source="Delivery\Delivery.csproj" Description="Project file successfully backed up as D:\Documents and Settings\Antony\Мои документы\Visual Studio 2008\Projects\Delivery\Backup\Delivery\Delivery.csproj">
+</Event><Event ErrorLevel="0" Project="Delivery" Source="Delivery\Form1.cs" Description="File successfully backed up as D:\Documents and Settings\Antony\Мои документы\Visual Studio 2008\Projects\Delivery\Backup\Delivery\Form1.cs">
+</Event><Event ErrorLevel="0" Project="Delivery" Source="Delivery\Form1.Designer.cs" Description="File successfully backed up as D:\Documents and Settings\Antony\Мои документы\Visual Studio 2008\Projects\Delivery\Backup\Delivery\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Delivery" Source="Delivery\Program.cs" Description="File successfully backed up as D:\Documents and Settings\Antony\Мои документы\Visual Studio 2008\Projects\Delivery\Backup\Delivery\Program.cs">
+</Event><Event ErrorLevel="0" Project="Delivery" Source="Delivery\Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\Documents and Settings\Antony\Мои документы\Visual Studio 2008\Projects\Delivery\Backup\Delivery\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Delivery" Source="Delivery\Properties\Resources.Designer.cs" Description="File successfully backed up as D:\Documents and Settings\Antony\Мои документы\Visual Studio 2008\Projects\Delivery\Backup\Delivery\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Delivery" Source="Delivery\Properties\Settings.Designer.cs" Description="File successfully backed up as D:\Documents and Settings\Antony\Мои документы\Visual Studio 2008\Projects\Delivery\Backup\Delivery\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Delivery" Source="Delivery\Properties\Settings.settings" Description="File successfully backed up as D:\Documents and Settings\Antony\Мои документы\Visual Studio 2008\Projects\Delivery\Backup\Delivery\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="Delivery" Source="Delivery\Properties\Resources.resx" Description="File successfully backed up as D:\Documents and Settings\Antony\Мои документы\Visual Studio 2008\Projects\Delivery\Backup\Delivery\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="Delivery" Source="Delivery\Delivery.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Delivery" Source="Delivery\Delivery.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Delivery.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Delivery.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Delivery" Source="Delivery\Delivery.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

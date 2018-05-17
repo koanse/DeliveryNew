@@ -1,0 +1,11 @@
+D:\Documents and Settings\Antony\Мои документы\Visual Studio 2008\Projects\Delivery\Delivery\obj\Debug\Delivery.exe
+D:\Documents and Settings\Antony\Мои документы\Visual Studio 2008\Projects\Delivery\Delivery\obj\Debug\Delivery.pdb
+D:\Documents and Settings\Antony\Мои документы\Visual Studio 2008\Projects\Delivery\Delivery\bin\Debug\Delivery.exe
+D:\Documents and Settings\Antony\Мои документы\Visual Studio 2008\Projects\Delivery\Delivery\bin\Debug\Delivery.pdb
+D:\Documents and Settings\Antony\Мои документы\Visual Studio 2008\Projects\Delivery\Delivery\bin\Debug\MathNet.Iridium.dll
+D:\Documents and Settings\Antony\Мои документы\Visual Studio 2008\Projects\Delivery\Delivery\bin\Debug\muWrapper.dll
+D:\Documents and Settings\Antony\Мои документы\Visual Studio 2008\Projects\Delivery\Delivery\bin\Debug\NPlot.dll
+D:\Documents and Settings\Antony\Мои документы\Visual Studio 2008\Projects\Delivery\Delivery\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\Antony\Мои документы\Visual Studio 2008\Projects\Delivery\Delivery\obj\Debug\Delivery.Properties.Resources.resources
+D:\Documents and Settings\Antony\Мои документы\Visual Studio 2008\Projects\Delivery\Delivery\obj\Debug\Delivery.csproj.GenerateResource.Cache
+D:\Documents and Settings\Antony\Мои документы\Visual Studio 2008\Projects\Delivery\Delivery\obj\Debug\Delivery.Form1.resources
